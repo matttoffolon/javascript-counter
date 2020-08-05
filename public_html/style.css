@@ -1,0 +1,11 @@
+body,
+html {
+  height: 100%;
+  background-image: url(background.jpg);
+}
+
+.jumbotron {
+  border-width: 5px;
+  border-color: #444; /* changes to "pink" for the rest */
+  border-style: ridge; /* dashed, double, groove, ridge, inset, outset */
+}
